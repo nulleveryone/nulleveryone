@@ -3,22 +3,23 @@
   # 𝔹𝕚𝕖𝕟𝕧𝕖𝕟𝕚𝕕𝕠𝕤 𝕒 ℕ.𝕌.𝕃.𝕃
   
   <!-- Reemplaza "URL_DE_TU_IMAGEN.png" con el enlace real de la imagen de tu logo o banner -->
-  <img src="https://res.cloudinary.com/jasnv9en/image/upload/v1789757105/NULL_IMAGEN.gif" alt="Banner de N.U.L.L" width="600">
+  <img src="https://res.cloudinary.com/jasnv9en/image/upload/v1789757235/NULL_GIF_VDD.gif" alt="Banner de N.U.L.L" width="600">
 
 </div>
 
 ---
 
-### Sobre Mí
+### ⛞ Sobre Mí
 
-Hola, soy **Mr.Null**, también conocido como **Mr.A** en roleplay. Aquí podrás visualizar mis proyectos, repositorios y cualquier avance interesante en el que esté trabajando.
+― 𝙃𝙤𝙡𝙖, 𝙨𝙤𝙮 **𝙈𝙧.𝙉𝙪𝙡𝙡**, 𝙩𝙖𝙢𝙗𝙞é𝙣 𝙘𝙤𝙣𝙤𝙘𝙞𝙙𝙤 𝙘𝙤𝙢𝙤 **𝙈𝙧.𝘼** 𝙚𝙣 𝙧𝙤𝙡𝙚𝙥𝙡𝙖𝙮. 𝘼𝙦𝙪í 𝙥𝙤𝙙𝙧á𝙨 𝙫𝙞𝙨𝙪𝙖𝙡𝙞𝙯𝙖𝙧 𝙢𝙞𝙨 𝙥𝙧𝙤𝙮𝙚𝙘𝙩𝙤𝙨, 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙤𝙨 𝙮 𝙘𝙪𝙖𝙡𝙦𝙪𝙞𝙚𝙧 𝙖𝙫𝙖𝙣𝙘𝙚 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙖𝙣𝙩𝙚 𝙚𝙣 𝙚𝙡 𝙦𝙪𝙚 𝙚𝙨𝙩é 𝙩𝙧𝙖𝙗𝙖𝙟𝙖𝙣𝙙𝙤.
 
-### La Comunidad N.U.L.L
+---
+### ⛞ La Comunidad N.U.L.L
 
-Si tienes interés o estás buscando un lugar para jugar, ¡puedes unirte a **N.U.L.L**! Somos una comunidad dedicada al roleplay y constantemente buscamos nuevos miembros para expandir nuestras historias.
+𝗦𝗶 𝘁𝗶𝗲𝗻𝗲𝘀 𝗶𝗻𝘁𝗲𝗿é𝘀 𝗼 𝗲𝘀𝘁á𝘀 𝗯𝘂𝘀𝗰𝗮𝗻𝗱𝗼 𝘂𝗻 𝗹𝘂𝗴𝗮𝗿 𝗽𝗮𝗿𝗮 𝗷𝘂𝗴𝗮𝗿, ¡𝗽𝘂𝗲𝗱𝗲𝘀 𝘂𝗻𝗶𝗿𝘁𝗲 𝗮 **𝗡.𝗨.𝗟.𝗟**! 𝗦𝗼𝗺𝗼𝘀 𝘂𝗻𝗮 𝗰𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗱𝗲𝗱𝗶𝗰𝗮𝗱𝗮 𝗮𝗹 𝗿𝗼𝗹𝗲𝗽𝗹𝗮𝘆 𝘆 𝗰𝗼𝗻𝘀𝘁𝗮𝗻𝘁𝗲𝗺𝗲𝗻𝘁𝗲 𝗯𝘂𝘀𝗰𝗮𝗺𝗼𝘀 𝗻𝘂𝗲𝘃𝗼𝘀 𝗺𝗶𝗲𝗺𝗯𝗿𝗼𝘀 𝗽𝗮𝗿𝗮 𝗲𝘅𝗽𝗮𝗻𝗱𝗶𝗿 𝗻𝘂𝗲𝘀𝘁𝗿𝗮𝘀 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗮𝘀.
 
-* **Juego principal (actualmente):** [Pony Town](https://pony.town/)
-* **Futuro:** Si hay oportunidad y la comunidad crece, tenemos planeado emigrar y expandirnos a otros juegos.
+* **𝐉𝐮𝐞𝐠𝐨 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 (𝐚𝐜𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞):** [Pony Town](https://pony.town/)
+* **𝗙𝘂𝘁𝘂𝗿𝗼:** 𝗦𝗶 𝗵𝗮𝘆 𝗼𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝗱𝗮𝗱 𝘆 𝗹𝗮 𝗰𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗰𝗿𝗲𝗰𝗲, 𝘁𝗲𝗻𝗲𝗺𝗼𝘀 𝗽𝗹𝗮𝗻𝗲𝗮𝗱𝗼 𝗲𝗺𝗶𝗴𝗿𝗮𝗿 𝘆 𝗲𝘅𝗽𝗮𝗻𝗱𝗶𝗿𝗻𝗼𝘀 𝗮 𝗼𝘁𝗿𝗼𝘀 𝗷𝘂𝗲𝗴𝗼𝘀.
 
 ---
 
