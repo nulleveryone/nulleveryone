@@ -25,7 +25,7 @@ Si tienes interés o estás buscando un lugar para jugar, ¡puedes unirte a **N.
 <div align="center">
   
   <!-- Aquí puedes poner el enlace de invitación a tu servidor de Discord -->
-  <a href="[URL_DE_TU_DISCORD](https://discord.gg/mrHGVgzZKT)">
+  <a href="https://discord.gg/mrHGVgzZKT">
     <img src="https://img.shields.io/badge/Únete_a_nuestro_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord N.U.L.L">
   </a>
 
