@@ -1,9 +1,9 @@
 <div align="center">
   
-  # Bienvenidos a N.U.L.L
+  # 𝔹𝕚𝕖𝕟𝕧𝕖𝕟𝕚𝕕𝕠𝕤 𝕒 ℕ.𝕌.𝕃.𝕃
   
   <!-- Reemplaza "URL_DE_TU_IMAGEN.png" con el enlace real de la imagen de tu logo o banner -->
-  <img src="URL_DE_TU_IMAGEN.png" alt="Banner de N.U.L.L" width="600">
+  <img src="https://res.cloudinary.com/jasnv9en/image/upload/v1789757105/NULL_IMAGEN.gif" alt="Banner de N.U.L.L" width="600">
 
 </div>
 
